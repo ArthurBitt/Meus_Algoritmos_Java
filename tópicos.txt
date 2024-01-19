@@ -1,0 +1,50 @@
+Calculadora Simples:
+
+Utilize tipos primitivos para representar números.
+Implemente operações básicas como adição, subtração, multiplicação e divisão.
+Utilize estruturas de controle para gerenciar as operações.
+Cadastro de Alunos:
+
+Crie uma classe Aluno com atributos como nome, idade e notas.
+Utilize arrays para armazenar vários alunos.
+Implemente métodos para calcular a média, encontrar o aluno com a maior nota, etc.
+Agenda Telefônica:
+
+Crie uma classe Contato com atributos como nome, número de telefone, e email.
+Utilize uma coleção (por exemplo, ArrayList) para armazenar os contatos.
+Implemente métodos para adicionar, remover e buscar contatos na agenda.
+Banco de Dados Simples:
+
+Crie uma classe Cliente e uma classe Conta.
+Utilize conceitos de herança para representar diferentes tipos de contas (por exemplo, conta corrente e conta poupança).
+Utilize estruturas de controle para realizar operações como depósito, saque e transferência.
+Jogo da Forca:
+
+Utilize arrays para armazenar palavras e letras já escolhidas.
+Implemente a lógica do jogo, incluindo verificações de acerto/erro.
+Utilize métodos para organizar o código.
+Sistema de Gerenciamento de Tarefas:
+
+Crie uma classe Tarefa com atributos como descrição, data de criação e status.
+Utilize uma coleção (por exemplo, HashMap) para armazenar tarefas.
+Implemente métodos para adicionar, remover e marcar tarefas como concluídas.
+Simulação de Carrinho de Compras:
+
+Crie classes para representar produtos, carrinho de compras e clientes.
+Utilize Collections para gerenciar os itens no carrinho.
+Implemente métodos para calcular o total da compra e aplicar descontos.
+Sistema de Biblioteca:
+
+Crie classes para representar livros, autores e usuários.
+Utilize Collections para gerenciar o acervo da biblioteca e os usuários.
+Implemente métodos para empréstimo, devolução e pesquisa de livros.
+Simulação de Jogo de Cartas:
+
+Crie classes para representar um baralho, cartas e jogadores.
+Utilize Collections para gerenciar as mãos dos jogadores.
+Implemente métodos para embaralhar, distribuir cartas e determinar o vencedor.
+Sistema de RH (Recursos Humanos):
+
+Crie classes para representar funcionários, departamentos e empresas.
+Utilize conceitos de herança para diferentes tipos de funcionários.
+Implemente métodos para calcular salários, gerenciar departamentos, etc.
