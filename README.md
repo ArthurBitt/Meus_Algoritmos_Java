@@ -1,2 +1,2 @@
-# Java_mini_projects
-Mini Projetos Java
+# Java Projeto Algorítimos
+
