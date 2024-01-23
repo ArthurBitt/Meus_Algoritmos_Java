@@ -1,1 +1,0 @@
-Este projeto é um exemplo de algoritmo de ordenação. O algoritmo de ordenação por inserção classifica uma lista construindo uma sequência classificada um item de cada vez.

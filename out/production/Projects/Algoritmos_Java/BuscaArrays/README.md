@@ -1,2 +1,0 @@
-Este projeto ajuda a entender o conceito de algoritmo e estrutura de dados. A busca linear é um algoritmo
-simples para encontrar um elemento em uma lista. Ele percorre a lista sequencialmente até encontrar o elemento.
